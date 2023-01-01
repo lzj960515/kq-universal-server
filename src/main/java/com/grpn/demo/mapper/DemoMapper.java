@@ -1,7 +1,7 @@
-package com.cqkqinfo.grpn.demo.mapper;
+package com.grpn.demo.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.cqkqinfo.grpn.demo.domain.Demo;
+import com.grpn.demo.domain.Demo;
 
 /**
  * Mapper 接口

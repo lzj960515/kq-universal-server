@@ -1,4 +1,4 @@
-package com.cqkqinfo.grpn.demo;
+package com.grpn.demo;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @author Zijian Liao
  * @since 1.0.0
  */
-@MapperScan(basePackages = "com.cqkqinfo.grpn.demo.mapper")
+@MapperScan(basePackages = "com.grpn.demo.mapper")
 @SpringBootApplication
 public class DemoApplication {
 

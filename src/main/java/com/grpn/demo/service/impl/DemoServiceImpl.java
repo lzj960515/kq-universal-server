@@ -1,8 +1,8 @@
-package com.cqkqinfo.grpn.demo.service.impl;
+package com.grpn.demo.service.impl;
 
-import com.cqkqinfo.grpn.demo.domain.Demo;
-import com.cqkqinfo.grpn.demo.mapper.DemoMapper;
-import com.cqkqinfo.grpn.demo.service.DemoService;
+import com.grpn.demo.domain.Demo;
+import com.grpn.demo.mapper.DemoMapper;
+import com.grpn.demo.service.DemoService;
 import com.kqinfo.universal.mybatisplus.base.BaseServiceImpl;
 import org.springframework.stereotype.Service;
 

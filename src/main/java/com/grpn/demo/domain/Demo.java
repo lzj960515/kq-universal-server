@@ -1,4 +1,4 @@
-package com.cqkqinfo.grpn.demo.domain;
+package com.grpn.demo.domain;
 
 import com.baomidou.mybatisplus.annotation.TableName;
 import com.kqinfo.universal.mybatisplus.base.BaseDomain;

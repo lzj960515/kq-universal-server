@@ -2,7 +2,7 @@ version: '3.5'
 services:
   grpn-demo:
     restart: always
-    image: /$GROUP_NAME/$APP_NAME:$VERSION
+    image: yourDockerHub/$GROUP_NAME/$APP_NAME:$VERSION
     container_name: $APP_NAME
     environment:
       SERVER_PORT: 8080

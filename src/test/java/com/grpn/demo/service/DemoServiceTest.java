@@ -1,9 +1,7 @@
-package com.cqkqinfo.grpn.demo.service;
+package com.grpn.demo.service;
 
-import com.cqkqinfo.grpn.demo.domain.Demo;
+import com.grpn.demo.domain.Demo;
 import com.kqinfo.universal.test.base.BaseTest;
-import org.hamcrest.CoreMatchers;
-import org.hamcrest.MatcherAssert;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.test.annotation.Rollback;

@@ -8,7 +8,7 @@
         <version>2.13.6</version>
     </parent>
 
-    <groupId>com.cqkqinfo.grpn</groupId>
+    <groupId>com.grpn</groupId>
     <artifactId>grpn-demo</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
@@ -63,7 +63,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>com.cqkqinfo.grpn.demo.DemoApplication</mainClass>
+                    <mainClass>com.grpn.demo.DemoApplication</mainClass>
                 </configuration>
             </plugin>
         </plugins>

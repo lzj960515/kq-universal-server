@@ -1,4 +1,4 @@
-package com.cqkqinfo.grpn.demo.controller;
+package com.grpn.demo.controller;
 
 import com.kqinfo.universal.yapi.annotation.YapiApi;
 import io.swagger.annotations.Api;

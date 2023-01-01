@@ -1,4 +1,4 @@
-package com.cqkqinfo.grpn.demo.yapi;
+package com.grpn.demo.yapi;
 
 import com.kqinfo.universal.yapi.generator.YapiGenerator;
 import org.junit.jupiter.api.Disabled;
@@ -18,7 +18,7 @@ public class YapiGeneratorTest {
     /**
      * 接口包路径
      */
-    private static final String BASE_PACKAGES = "com.cqkqinfo.grpn.demo.controller";
+    private static final String BASE_PACKAGES = "com.grpn.demo.controller";
 
     public static void main(String[] args) {
         YapiGenerator.generateYapi(BASE_PACKAGES, "https://yapi.xxx.com", TOKEN, "yapi", true);

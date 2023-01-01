@@ -1,6 +1,6 @@
-package com.cqkqinfo.grpn.demo.service;
+package com.grpn.demo.service;
 
-import com.cqkqinfo.grpn.demo.domain.Demo;
+import com.grpn.demo.domain.Demo;
 import com.kqinfo.universal.mybatisplus.base.BaseService;
 
 /**

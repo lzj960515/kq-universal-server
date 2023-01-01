@@ -33,7 +33,7 @@ kq:
   redis:
     prefix: 'grpn:test:'
   swagger:
-    base-package: com.cqkqinfo.grpn.demo
+    base-package: com.grpn.demo
     title: demo服务API
     description: demo服务API
   encrypt:
