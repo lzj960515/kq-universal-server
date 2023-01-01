@@ -3,9 +3,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.kqinfo</groupId>
+        <groupId>com.github.lzj960515</groupId>
         <artifactId>kq-universal-starter-parent</artifactId>
-        <version>2.13.6</version>
+        <version>1.1.1</version>
     </parent>
 
     <groupId>com.grpn</groupId>
@@ -36,16 +36,36 @@
 
         <!-- Projects -->
         <dependency>
-            <groupId>com.kqinfo</groupId>
-            <artifactId>kq-universal-all</artifactId>
+            <groupId>com.github.lzj960515</groupId>
+            <artifactId>kq-universal-common-starter</artifactId>
         </dependency>
         <dependency>
-            <groupId>com.kqinfo</groupId>
+            <groupId>com.github.lzj960515</groupId>
+            <artifactId>kq-universal-redis-starter</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.github.lzj960515</groupId>
+            <artifactId>kq-universal-mybatis-plus-starter</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.github.lzj960515</groupId>
+            <artifactId>kq-universal-async-starter</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.github.lzj960515</groupId>
+            <artifactId>kq-universal-mybatis-encrypt-starter</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.github.lzj960515</groupId>
+            <artifactId>kq-universal-enum-starter</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.github.lzj960515</groupId>
             <artifactId>kq-universal-test-starter</artifactId>
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>com.kqinfo</groupId>
+            <groupId>com.github.lzj960515</groupId>
             <artifactId>kq-universal-yapi-starter</artifactId>
         </dependency>
         <!-- Commons -->
